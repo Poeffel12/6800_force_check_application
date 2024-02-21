@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 from bokeh.plotting import figure
 import yaml
-from bokeh.models import Range1d, LinearAxis, Legend
+from bokeh.models import Range1d, LinearAxis
 import zipfile
 import matplotlib
 
